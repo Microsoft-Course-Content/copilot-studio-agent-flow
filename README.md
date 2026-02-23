@@ -184,7 +184,7 @@ Input → Multi-Agent Analysis → Human Review → Escalation Routing →
 │   │   └─ Complete implementation guide with patterns
 │   ├─ HITL_Agent_Flow_Lab_Guide.docx
 │   │   └─ Editable guide for your team
-│   └─ Module_08_Workflow_Designer_HITL.pptx
+│   └─ Workflow_Designer_HITL.pptx
 │       └─ Presentation on design patterns & best practices
 │
 ├── 🌐 visualizations/
